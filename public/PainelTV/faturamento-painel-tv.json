@@ -1,0 +1,25 @@
+[
+  {
+    "Atualizacao": "21/10/2021 17:10:06",
+    "Dia": "21",
+    "Mes": "out",
+    "Ano": "2021",
+    "MetaDia": "R$ 400.000,00",
+    "MetaAlcancadaDia": "0.6276476",
+    "VendaDia": "R$ 251.059,04",
+    "PerformanceDia": "0.6276476",
+    "DiferencaDia": "-R$ 148.940,96",
+    "MetaMes": "R$ 10.000.000,00",
+    "VendaAlcancadaMes": "0.580935083",
+    "MetaAlcancadaMes": "0.72",
+    "VendaMes": "R$ 5.809.350,83",
+    "PerformanceMes": "0.580935083",
+    "MetaAcumuladaMes": "0.68",
+    "DiferencaMes": "-R$ 4.190.649,17",
+    "MetaAcumuladaAno": "R$ 101.500.000,00",
+    "VendaAlcancadaAno": "0.87571960147204",
+    "VendaAno": "R$ 89.235.827,39",
+    "PerformanceAno": "0.87917071320198",
+    "DiferencaAno": "-R$ 12.264.172,61"
+  }
+]
